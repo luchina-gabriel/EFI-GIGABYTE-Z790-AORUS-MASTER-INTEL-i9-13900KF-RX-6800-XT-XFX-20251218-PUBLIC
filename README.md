@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790 Aorus Master, Intel Core i9-13900KF, AMD Radeon RX 6800 XT and 10GbE Ethernet
 
+<img width="2349" height="1395" alt="Geekvench - V6   Ai - Results" src="https://github.com/user-attachments/assets/9838da60-65a5-445b-80e2-20670ce4443a" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Tahoe (26.2)
